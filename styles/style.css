@@ -19,25 +19,28 @@ p{
     font-size: 20px;
 }
 
+.homeButton{
+    font-size: 35px;
+}
+
 .highlight{
     border: 10px dotted #3ccfa3;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
     display:inline-block;
-    background-color: #bff0e2;
+    background-color: #d5f7ee;
 }
 
 .subtitle{
     margin: 10px;
-    padding: 10px;
     font-size: 35px;
 }
 
 img{
     display: block;
     width: 75%;
-    padding: 20px;
     margin: 0 auto;
+    border: 10px solid #3ccfa3;
 }
 
 a{
