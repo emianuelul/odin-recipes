@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #b9d0c9;
+}
+
+.title{
+    padding: 30px;
+    font-family: 'Helvetica', 'Times';
+}
+
+p{
+    font-size: 20px;
+}
+
+.highlight{
+    border: 10px dotted #3ccfa3;
+    padding: 10px;
+    margin: 10px;
+    display:inline-block;
+    background-color: #bff0e2;
+}
+
+.subtitle{
+    margin: 10px;
+    padding: 10px;
+    font-size: 35px;
+}
+
+img{
+    display: block;
+    width: 75%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+.list{
+    display: inline-block;
+    padding: 20px;
+    max-width: 75%;
+    text-align: left;
+}
+
+.list li{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.contentPanel{
+    background-color: #f0fff0;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 10px dashed #a0d4c4;
+    text-align: center;
+    max-width: fit-content;
+}
